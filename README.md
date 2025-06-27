@@ -4,7 +4,7 @@ This repo is a SAFE stack application designed to demonstrate techniques for wor
 
 It has a companion blog post here - check it out!
 
-< LINK >
+https://www.compositional-it.com/news-blog/demonstrating-result-techniques/
 
 
 ## Install pre-requisites
